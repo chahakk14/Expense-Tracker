@@ -96,7 +96,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Author
-
-Yashasvi Rawat
